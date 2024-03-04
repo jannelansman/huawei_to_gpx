@@ -6,7 +6,7 @@ Huawei Sport watches don't allow users to directly export workout track data fro
 
 ## How to
 
-- You need to have Python 3.7.x+ installed
+- You need to have Python 3.7+ installed
 - You need to acquire your Huawei Health data, either from your backups, which may be tricky, or by requesting the data from Huawei. The latter may take days.
 - After you have the data, copy your `"HUAWEI_HEALTH_YYYYMMDDHHMMSS\Motion path detail data & description\motion path detail data.json"` in same directory with hi2gpx.py or vice versa.
 - Run the script: `python hi2gpx.py`
