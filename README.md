@@ -1,4 +1,4 @@
-# Huawei Health _"motion path detail data.json"_ to gpx conversion
+# Huawei Sports Watch track data to .gpx conversion
 
 ## Description
 
