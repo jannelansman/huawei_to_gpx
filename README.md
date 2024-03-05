@@ -2,7 +2,7 @@
 
 ## Description
 
-Huawei Sport watches don't allow users to directly export workout track data from workout records to .gpx files. This Python script does that.
+Huawei Sport watches don't allow users to directly export workout track data from workout records to .gpx files. This Python script remedies that.
 
 ## How to
 
