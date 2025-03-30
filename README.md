@@ -1,4 +1,4 @@
-# Huawei Sports Watch track data to .gpx conversion
+# Huawei Sports Watch track data conversion to .gpx format
 
 ## Description
 
